@@ -1,1 +1,1 @@
-# Java-swing
+# lient/server chat application
